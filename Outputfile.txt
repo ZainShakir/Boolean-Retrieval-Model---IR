@@ -1,0 +1,22 @@
+Query is: neural information /2
+Result=>[26]
+Query is: feature track /5
+Result=>[13, 212]
+Query is: image AND restoration
+Result=>[359, 375]
+Query is: temporal AND deep AND learning
+Result=>[279, 358, 373, 405]
+Query is: autoencoders
+Result=>[187, 273, 279, 325, 333, 405]
+Query is: temporal AND deep AND learning
+Result=>[279, 358, 373, 405]
+Query is: feature track /5
+Result=>[13, 212]
+Query is: neural information /2
+Result=>[26]
+Query is: pattern
+Result=>[9, 10, 18, 21, 23, 26, 30, 34, 40, 50, 73, 118, 126, 127, 139, 145, 148, 155, 180, 186, 189, 194, 201, 209, 214, 216, 230, 231, 234, 238, 279, 280, 288, 326, 343, 350, 351, 368, 369, 383, 394, 406, 412, 413, 424, 425, 429, 446, 447]
+Query is: pattern
+Result=>[9, 10, 18, 21, 23, 26, 30, 34, 40, 50, 73, 118, 126, 127, 139, 145, 148, 155, 180, 186, 189, 194, 201, 209, 214, 216, 230, 231, 234, 238, 279, 280, 288, 326, 343, 350, 351, 368, 369, 383, 394, 406, 412, 413, 424, 425, 429, 446, 447]
+Query is: statistical
+Result=>[1, 14, 15, 17, 41, 42, 43, 60, 71, 72, 92, 102, 112, 115, 116, 121, 128, 145, 147, 156, 158, 170, 190, 193, 194, 202, 204, 208, 228, 255, 269, 283, 319, 320, 336, 343, 355, 368, 370, 385, 393, 405, 429, 430, 438, 445, 447, 448]
